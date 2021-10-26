@@ -79,6 +79,7 @@ Hit "Gib Holders!" button. You should see a JSON file download. You can find the
 ***
 
 Let me know if you have any questions or concerns on Twitter: @EverydayLydian
+
 If you feel generous today, send tips (SOL): 7kft6sap6hpkaSuDcjMgmmjFCqqnXtrYpEvLDZNBPGb6
 
 
